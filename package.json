@@ -55,7 +55,6 @@
     "webpack": "^3.6.0"
   },
   "dependencies": {
-    "bufferutil": "*",
     "eventemitter3": "*",
     "socket.io-client": "*",
     "source-map-support": "*"
